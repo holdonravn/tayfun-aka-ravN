@@ -20,3 +20,9 @@ My goal is to turn those values into accessible, open systems for everyone.
 - 🛡️ Proof-of-contribution and transparent reward systems (ArcVault)
 - 🔒 Confidential yet verifiable AI outputs and on-chain proofs (Privora)
 - 🧠 On-chain intelligence and reward automation (IQON)
+
+
+We’re not the ones questioning the future —
+we’re the ones building it, piece by piece.
+We are the builders.
+And creation, in its purest form, is a statement.
