@@ -10,7 +10,6 @@ Each project carries a unique value proposition.
 My goal is to turn those values into accessible, open systems for everyone.
 
 “My only goal: Transparent contribution. Real value. Quiet execution.”
-Harika Tayfun! Görseldeki kullanıcı adı ve repo adlarına göre aşağıdaki gibi düzenlenmiş versiyonu doğrudan GitHub profil README’ne ekleyebilirsin:
 
 ⸻
 
