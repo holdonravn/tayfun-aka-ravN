@@ -17,3 +17,6 @@ My goal is to turn those values into accessible, open systems for everyone.
 
 🌐 Projects: [ArcVault](https://github.com/holdonravn/arcvault-contribution-nft) ・ [Privora](https://github.com/holdonravn/privora-core) ・ [IQON](https://github.com/holdonravn/iqon)
 
+- 🛡️ Proof-of-contribution and transparent reward systems (ArcVault)
+- 🔒 Confidential yet verifiable AI outputs and on-chain proofs (Privora)
+- 🧠 On-chain intelligence and reward automation (IQON)
